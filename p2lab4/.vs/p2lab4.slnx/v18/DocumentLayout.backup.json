@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|c:\\users\\lunax\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|c:\\users\\lunax\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|c:\\users\\lunax\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\schoolmanagementwebapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6F72E0-5D38-4A4D-8FF2-EC03FD3DB283}|SchoolManagementWebApp\\WebUI.csproj|solutionrelative:schoolmanagementwebapp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\repositories\\studentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\studentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\repositories\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\dal\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A78021C-32AF-4D76-9A3D-90CA99E2BFCB}|DAL\\DAL.csproj|solutionrelative:dal\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\DepartmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Repositories\\DepartmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\bal\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420111F3-EC17-4D5B-B130-1944A3638853}|BAL\\BAL.csproj|solutionrelative:bal\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\StudentCourseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Repositories\\StudentCourseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\InstructorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Repositories\\InstructorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\CourseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Repositories\\CourseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Repositories\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\SchoolDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\SchoolDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\StudentCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Models\\StudentCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Models\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Models\\Instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DA\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Site.Mobile.Master",
+              "RelativeToolTip": "SchoolManagementWebApp\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-15T11:18:05.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Site.Master",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Site.Master",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Site.Master",
+              "RelativeToolTip": "SchoolManagementWebApp\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-15T11:18:02.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:02:54.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\InstructorRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\InstructorRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\InstructorRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:02:36.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:01:55.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\UserService.cs",
+              "RelativeDocumentMoniker": "BAL\\UserService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\UserService.cs",
+              "RelativeToolTip": "BAL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:44:25.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BAL\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\DepartmentService.cs",
+              "RelativeToolTip": "BAL\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:45:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:57:36.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.aspx",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Main.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Main.aspx",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Main.aspx",
+              "RelativeToolTip": "SchoolManagementWebApp\\Main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-15T11:08:09.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\SchoolDbContext.cs",
+              "RelativeToolTip": "DAL\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:55:08.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Login.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Login.aspx",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Login.aspx",
+              "RelativeToolTip": "SchoolManagementWebApp\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-15T11:07:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\StudentCourseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\StudentCourseRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\StudentCourseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\StudentCourseRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:03:10.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Web.config",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Web.config",
+              "RelativeToolTip": "SchoolManagementWebApp\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-15T11:06:42.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Global.asax.cs",
+              "RelativeToolTip": "SchoolManagementWebApp\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:07:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\App.config",
+              "RelativeDocumentMoniker": "BAL\\App.config",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\App.config",
+              "RelativeToolTip": "BAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-15T11:12:16.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "SchoolManagementWebApp\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:07:24.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "SchoolManagementWebApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:07:30.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-15T11:12:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\packages.config",
+              "RelativeDocumentMoniker": "BAL\\packages.config",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\packages.config",
+              "RelativeToolTip": "BAL\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-15T11:10:16.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Global.asax",
+              "RelativeDocumentMoniker": "SchoolManagementWebApp\\Global.asax",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\SchoolManagementWebApp\\Global.asax",
+              "RelativeToolTip": "SchoolManagementWebApp\\Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2026-04-15T11:08:21.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:02:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:59:36.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\CourseService.cs",
+              "RelativeDocumentMoniker": "BAL\\CourseService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\CourseService.cs",
+              "RelativeToolTip": "BAL\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:44:53.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\StudentService.cs",
+              "RelativeDocumentMoniker": "BAL\\StudentService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\StudentService.cs",
+              "RelativeToolTip": "BAL\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:44:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Student.cs",
+              "RelativeToolTip": "DAL\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:57:19.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Course.cs",
+              "RelativeToolTip": "DAL\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:57:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Instructor.cs",
+              "RelativeToolTip": "DAL\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:56:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\Department.cs",
+              "RelativeToolTip": "DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:56:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DAL\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "DAL\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:56:08.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\InstructorService.cs",
+              "RelativeDocumentMoniker": "BAL\\InstructorService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\InstructorService.cs",
+              "RelativeToolTip": "BAL\\InstructorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:45:12.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\StudentCourseService.cs",
+              "RelativeDocumentMoniker": "BAL\\StudentCourseService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\BAL\\StudentCourseService.cs",
+              "RelativeToolTip": "BAL\\StudentCourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:45:40.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\StudentCourseRepository.cs",
+              "RelativeDocumentMoniker": "DA\\Repositories\\StudentCourseRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\StudentCourseRepository.cs",
+              "RelativeToolTip": "DA\\Repositories\\StudentCourseRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:44:08.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DA\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "DA\\Repositories\\DepartmentRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:43:46.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DA\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Course.cs",
+              "RelativeToolTip": "DA\\Models\\Course.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:39:59.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "DA\\Repositories\\InstructorRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\InstructorRepository.cs",
+              "RelativeToolTip": "DA\\Repositories\\InstructorRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:43:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DA\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "DA\\Repositories\\CourseRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:43:01.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DA\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "DA\\Repositories\\StudentRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:42:42.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DA\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DA\\Repositories\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:42:09.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "DA\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\SchoolDbContext.cs",
+              "RelativeToolTip": "DA\\SchoolDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:41:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "DA\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "DA\\Models\\StudentCourse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:41:11.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DA\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Department.cs",
+              "RelativeToolTip": "DA\\Models\\Department.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:40:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "DA\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Instructor.cs",
+              "RelativeToolTip": "DA\\Models\\Instructor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:40:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DA\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\Student.cs",
+              "RelativeToolTip": "DA\\Models\\Student.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:39:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DA\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p2lab4\\DA\\Models\\User.cs",
+              "RelativeToolTip": "DA\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:39:09.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

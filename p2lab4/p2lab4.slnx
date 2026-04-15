@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BAL/BAL.csproj" Id="420111f3-ec17-4d5b-b130-1944a3638853" />
+  <Project Path="DAL/DAL.csproj" Id="3a78021c-32af-4d76-9a3d-90ca99e2bfcb" />
+  <Project Path="SchoolManagementWebApp/WebUI.csproj" Id="fb6f72e0-5d38-4a4d-8ff2-ec03fd3db283" />
+</Solution>
