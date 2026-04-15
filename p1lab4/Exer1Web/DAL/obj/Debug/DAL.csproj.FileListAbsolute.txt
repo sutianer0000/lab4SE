@@ -22,3 +22,15 @@ C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\DAL\obj\Debug\DAL.cs
 C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\DAL\obj\Debug\DAL.dll
 C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\DAL\obj\Debug\DAL.pdb
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\DAL.dll.config
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\DAL.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\DAL.pdb
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\EntityFramework.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\EntityFramework.xml
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\obj\Debug\DAL.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\DAL\obj\Debug\DAL.pdb

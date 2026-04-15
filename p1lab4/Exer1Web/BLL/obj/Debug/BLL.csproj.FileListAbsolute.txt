@@ -22,3 +22,15 @@ C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\BLL\obj\Debug\BLL.cs
 C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\BLL\obj\Debug\BLL.csproj.Up2Date
 C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\BLL\obj\Debug\BLL.dll
 C:\Users\LunaX\source\repos\lab4\lab04_524k0033(0)\Exer1Web\BLL\obj\Debug\BLL.pdb
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\BLL.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\BLL.pdb
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\DAL.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\EntityFramework.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\DAL.pdb
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\DAL.dll.config
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\bin\Debug\EntityFramework.xml
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\obj\Debug\BLL.dll
+C:\Users\LunaX\source\repos\lab4\p1lab4\Exer1Web\BLL\obj\Debug\BLL.pdb

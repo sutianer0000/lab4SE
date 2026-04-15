@@ -7,17 +7,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using BLL;
-using DAL;
-using System;
-
-namespace WebUI
+namespace MainWebUI
 {
 
 
-    public partial class CustomerWForm : System.Web.UI.Page
+    public partial class CustomerForm
     {
-        private readonly CustomerService _customerService = new CustomerService();
 
         /// <summary>
         /// form1 control.
@@ -27,19 +22,7 @@ namespace WebUI
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            if (!IsPostBack)
-            {
-                BindCustomerGrid();
-            }
-        }
-        private void BindCustomerGrid()
-        {
-            var customers = _customerService.GetAllCustomers();
-            gvCustomers.DataSource = customers;
-            gvCustomers.DataBind();
-        }
+
         /// <summary>
         /// lblId control.
         /// </summary>
@@ -102,18 +85,7 @@ namespace WebUI
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnAdd;
-        protected void btnAdd_Click(object sender, EventArgs e)
-        {
-            var customer = new Customer
-            {
-                Name = txtName.Text,
-                Email = txtEmail.Text
-            };
-            _customerService.AddCustomer(customer);
-            Response.Write("Customer added successfully!");
-            //Refresh gvCustomer
-            BindCustomerGrid();
-        }
+
         /// <summary>
         /// btnGet control.
         /// </summary>
@@ -122,20 +94,7 @@ namespace WebUI
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnGet;
-        protected void btnGet_Click(object sender, EventArgs e)
-        {
-            int id = int.Parse(txtId.Text);
-            var customer = _customerService.GetCustomer(id);
-            if (customer != null)
-            {
-                txtName.Text = customer.Name;
-                txtEmail.Text = customer.Email;
-            }
-            else
-            {
-                Response.Write("Customer not found!");
-            }
-        }
+
         /// <summary>
         /// btnUpdate control.
         /// </summary>
@@ -144,19 +103,7 @@ namespace WebUI
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnUpdate;
-        protected void btnUpdate_Click(object sender, EventArgs e)
-        {
-            var customer = new Customer
-            {
-                Id = int.Parse(txtId.Text),
-                Name = txtName.Text,
-                Email = txtEmail.Text
-            };
-            _customerService.UpdateCustomer(customer);
-            Response.Write("Customer updated successfully!");
-            //Refresh gvCustomer
-            BindCustomerGrid();
-        }
+
         /// <summary>
         /// btnDelete control.
         /// </summary>
@@ -165,14 +112,7 @@ namespace WebUI
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnDelete;
-        protected void btnDelete_Click(object sender, EventArgs e)
-        {
-            int id = int.Parse(txtId.Text);
-            _customerService.DeleteCustomer(id);
-            Response.Write("Customer deleted successfully!");
-            //Refresh gvCustomer
-            BindCustomerGrid();
-        }
+
         /// <summary>
         /// gvCustomers control.
         /// </summary>

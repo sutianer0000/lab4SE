@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LoginWebUI
+namespace MainWebUI
 {
 
 

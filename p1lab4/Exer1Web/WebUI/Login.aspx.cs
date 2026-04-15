@@ -1,7 +1,7 @@
 ﻿using BAL;
 using System;
 
-namespace LoginWebUI
+namespace MainWebUI
 {
     public partial class Login : System.Web.UI.Page
     {
@@ -19,8 +19,7 @@ namespace LoginWebUI
             if (_userService.ValidateUser(username, password))
             {
                 Session["Username"] = username;
-                lblMessage.ForeColor = System.Drawing.Color.Green;
-                lblMessage.Text = "Login successful! Welcome " + username;
+                Response.Redirect("Main.aspx");
             }
             else
             {
