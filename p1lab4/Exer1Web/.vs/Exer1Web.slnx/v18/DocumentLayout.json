@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|c:\\users\\lunax\\source\\repos\\lab4\\p1lab4\\exer1web\\webui\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|solutionrelative:webui\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|solutionrelative:WebUI\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|solutionrelative:WebUI\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D178BB7-381E-46DF-9065-533E574C0D31}|BLL\\BLL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\BLL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D178BB7-381E-46DF-9065-533E574C0D31}|BLL\\BLL.csproj|solutionrelative:BLL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|solutionrelative:DAL\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|solutionrelative:DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|solutionrelative:WebUI\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|solutionrelative:WebUI\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\CustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|solutionrelative:DAL\\CustomerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\Exer1DbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|solutionrelative:DAL\\Exer1DbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72B2D8E8-8491-47BB-BF2D-C0A30A2BBD18}|WebUI\\WebUI.csproj|solutionrelative:WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D178BB7-381E-46DF-9065-533E574C0D31}|BLL\\BLL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\BLL\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D178BB7-381E-46DF-9065-533E574C0D31}|BLL\\BLL.csproj|solutionrelative:BLL\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DECEE2E-C7AC-4CC0-BA52-FE6C0436C553}|DAL\\DAL.csproj|solutionrelative:DAL\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Login.aspx.cs",
+              "RelativeToolTip": "WebUI\\Login.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:13:03.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Login.aspx",
+              "RelativeDocumentMoniker": "WebUI\\Login.aspx",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Login.aspx",
+              "RelativeToolTip": "WebUI\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-15T09:12:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:11:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:10:41.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\User.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\User.cs",
+              "RelativeToolTip": "DAL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:09:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx.cs",
+              "RelativeToolTip": "WebUI\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:27:20.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebUI\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx.designer.cs",
+              "RelativeToolTip": "WebUI\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwKYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:22:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx",
+              "RelativeDocumentMoniker": "WebUI\\Default.aspx",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Default.aspx",
+              "RelativeToolTip": "WebUI\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-17T04:19:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\CustomerRepository.cs",
+              "RelativeToolTip": "DAL\\CustomerRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:29:36.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exer1DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\Exer1DbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Exer1DbContext.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\Exer1DbContext.cs",
+              "RelativeToolTip": "DAL\\Exer1DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:30:25.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Web.config",
+              "RelativeDocumentMoniker": "WebUI\\Web.config",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\WebUI\\Web.config",
+              "RelativeToolTip": "WebUI\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-17T04:28:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\BLL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BLL\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\BLL\\CustomerService.cs",
+              "RelativeToolTip": "BLL\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:36:38.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\Customer.cs",
+              "ToolTip": "C:\\Users\\LunaX\\source\\repos\\lab4\\p1lab4\\Exer1Web\\DAL\\Customer.cs",
+              "RelativeToolTip": "DAL\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:29:07.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
